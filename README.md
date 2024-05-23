@@ -1,6 +1,6 @@
 # Recipe Finder App
 
-![Splash Screen](./assets/splash_screen.png)
+![Splash Screen](./assets/recipie_finder_preview.mp4)
 
 ## Introduction
 Welcome to the Recipe Finder App! This application is designed to help you discover new and delicious recipes effortlessly. Whether you're a seasoned chef or a home cook, our user-friendly interface make it easy to find recipes that suit your tastes and dietary preferences.
