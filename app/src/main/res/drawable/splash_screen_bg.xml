@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <bitmap
+            android:src="@drawable/splash_screen_bg_img"/>  <!-- Replace with your image -->
+        android:gravity="center" />
+    </item>
+    <item>
+        <shape android:shape="rectangle">
+            <gradient
+                android:startColor="#000000"
+                android:endColor="#63838080"
+                android:angle="90"/>       <!-- Angle of the gradient (90 for top to bottom) -->
+        </shape>
+    </item>
+</layer-list>
