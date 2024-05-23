@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "357558749741",
+    "project_number": "project_number",
     "project_id": "recepiefinder",
     "storage_bucket": "recepiefinder.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:357558749741:android:c17430c9b76fbd755446a4",
+        "mobilesdk_app_id": "app_id,
         "android_client_info": {
           "package_name": "com.example.recepiefinder"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDv_VZfJlwBU4qk2rD4mc_95QCn_ecauS4"
+          "current_key": "api_key"
         }
       ],
       "services": {
