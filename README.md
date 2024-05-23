@@ -13,7 +13,7 @@ Welcome to the Recipe Finder App! This application is designed to help you disco
 ## Technologies Used
 - **Frontend:** Android (Java), XML
 - **Database:** Firebase Database
-- **API Integration:** Edamam (for recipe search), Firebase (for authentication and user data storage), Retrofit library (for retrieving data from Firebase)
+- **API Integration:** Edamam (for recipe search), Firebase (for authentication and user data storage), Retrofit library (for retrieving data from Edamamm Api)
 
 ## API Integration
 - **Edamam:** The Recipe Finder App integrates with the Edamam API to provide users with an extensive database of recipes. Users can search for recipes based on keywords, ingredients, or dietary preferences.
