@@ -14,10 +14,10 @@ Welcome to the Recipe Finder App! This application is designed to help you disco
 ![Splash Screen](./assets/splash_screen.png)
 
 ### Login Page
-![Login Page](./assets/login_page.png)
+![Login Page](./assets/login_screen.png)
 
 ### Sign Up Page
-![Sign Up Page](./assets/sign_up_page.png)
+![Sign Up Page](./assets/signup_screen.png)
 
 ### Home Page
-![Home Page](./assets/home_page.png)
+![Home Page](./assets/home_screen.png)
